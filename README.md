@@ -1,2 +1,2 @@
 # Cardiovascular-Disease-Awareness
-All university projects related to coding
+A project for Advanced Computer Programming course
